@@ -1,0 +1,6 @@
+Read this file and write it to another!
+next line
+next line
+another line
+yet another line
+no more lines
